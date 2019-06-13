@@ -1,0 +1,17 @@
+#bold{
+    color: white;
+    text-align: center;
+}
+
+#square{
+    width: 500px;
+    height: 500px;
+    text-align: center;
+    margin: auto;
+}
+
+#changeCardDiv{
+    margin: auto;
+    text-align: center;
+}
+
